@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Book API Project
 
 This is a simple REST API I built to manage books using Node.js and Express. It stores data in memory.
@@ -49,3 +50,7 @@ It will run on `http://localhost:3000`.
 ## Notes
 - Data is stored in memory, so it resets when server restarts.
 - I used cors and morgan for better development.
+=======
+# book-api
+A simple REST API to manage books built with Node.js and Express.
+>>>>>>> af50ecad0b002559a48581618026b042858610ba
